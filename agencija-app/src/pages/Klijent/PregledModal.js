@@ -84,5 +84,5 @@ class PregledModal extends Component{
         )
     }
 }export default GoogleApiWrapper({
-    apiKey: "AIzaSyD_hTosb9iZSEHRhnboFUz8qoWo7h_e6Zg"
+    apiKey: "apikey"
   })(PregledModal);
